@@ -9,7 +9,7 @@ namespace Day7_carte_di_credito
 
             // Le carte di pagamento sono lunghe 16 cifre.
             // Le prime 6 cifre rappresentano un numero di identificazione univoco per la banca che ha emesso la carta.
-            // Le successive 2 cifre determinano il tipo di carta (ad es. debito, credito, regalo).
+            // Le successive 2 cifre determinano il tipo di carta (ad es. debito, credito, regalo)
             // Le cifre da 9 a 15 sono il numero di serie della carta
             // L'ultima cifra è utilizzata come cifra di controllo per verificare se il numero della carta è valido.
 
