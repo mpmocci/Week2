@@ -1,0 +1,4 @@
+Aperitivo con Andre da Maiori,10/16/2021 12:00:00 AM,Media
+Consegnare esercitazione,10/15/2021 12:00:00 AM,Alta
+Finire il codice Pippo.cs ,10/19/2021 12:00:00 AM,Bassa
+Preparare meeting PowerPoint,12/19/2021 12:00:00 AM,Alta
